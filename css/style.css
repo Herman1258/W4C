@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F4F1EA;
+  color: #293241;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 22rem;
+  margin: 1.5rem;
+  padding: 2rem;
+  background-color: #FFFFFF;
+  border: 1px solid #e3ded3;
+  border-radius: 1rem;
+  text-align: center;
+}
